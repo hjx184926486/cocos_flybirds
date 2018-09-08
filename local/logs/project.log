@@ -1,0 +1,55 @@
+2018-09-08T12:32:52.071Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-08T12:32:52.078Z - normal: checking language setting...
+2018-09-08T12:32:52.078Z - normal: Language: zh
+2018-09-08T12:32:56.194Z - success: protocol editor-framework registered
+2018-09-08T12:32:56.194Z - success: protocol app registered
+2018-09-08T12:32:56.195Z - success: protocol theme registered
+2018-09-08T12:32:56.195Z - success: protocol packages registered
+2018-09-08T12:32:56.196Z - success: protocol unpack registerred
+2018-09-08T12:32:56.196Z - success: protocol disable-commonjs registerred
+2018-09-08T12:32:56.339Z - normal: connected!
+2018-09-08T12:32:56.343Z - normal: Check project /Users/apple/Desktop/cocos/cc_flybirds
+2018-09-08T12:32:56.361Z - normal: Initializing Cocos2d
+2018-09-08T12:32:57.486Z - normal: Initializing Asset Database
+2018-09-08T12:32:57.605Z - success: protocol uuid registerred
+2018-09-08T12:32:57.605Z - success: protocol db registerred
+2018-09-08T12:32:57.606Z - success: protocol thumbnail registerred
+2018-09-08T12:32:57.606Z - normal: Loading editor/builtin packages
+2018-09-08T12:32:57.833Z - success: anysdk loaded
+2018-09-08T12:32:58.370Z - success: assets loaded
+2018-09-08T12:32:58.390Z - success: builder loaded
+2018-09-08T12:32:58.401Z - success: cocos-analytics loaded
+2018-09-08T12:32:58.416Z - success: console loaded
+2018-09-08T12:32:58.495Z - success: fb-instant-games loaded
+2018-09-08T12:32:58.507Z - success: hierarchy loaded
+2018-09-08T12:32:58.523Z - success: inspector loaded
+2018-09-08T12:32:58.530Z - success: keystore loaded
+2018-09-08T12:32:58.541Z - success: node-library loaded
+2018-09-08T12:32:58.551Z - success: package-asset loaded
+2018-09-08T12:32:58.559Z - success: preferences loaded
+2018-09-08T12:32:58.572Z - success: project-exporter loaded
+2018-09-08T12:32:58.620Z - success: project-importer loaded
+2018-09-08T12:32:58.631Z - success: project-settings loaded
+2018-09-08T12:32:58.656Z - success: ui-kit loaded
+2018-09-08T12:32:58.678Z - success: ui-grid loaded
+2018-09-08T12:32:58.693Z - success: scene loaded
+2018-09-08T12:32:58.702Z - success: sprite-editor loaded
+2018-09-08T12:32:58.714Z - success: store loaded
+2018-09-08T12:32:58.745Z - success: timeline loaded
+2018-09-08T12:32:58.745Z - normal: Loading builtin packages
+2018-09-08T12:32:58.790Z - success: asset-db-debugger loaded
+2018-09-08T12:32:58.793Z - success: color-picker loaded
+2018-09-08T12:32:58.812Z - success: package-manager loaded
+2018-09-08T12:32:58.816Z - success: qqplay-adapter loaded
+2018-09-08T12:32:58.856Z - success: sdkbox loaded
+2018-09-08T12:32:58.878Z - success: tester loaded
+2018-09-08T12:32:58.894Z - success: ui-kit-preview-extra loaded
+2018-09-08T12:32:58.907Z - success: ui-kit-preview loaded
+2018-09-08T12:32:58.924Z - success: ui-tree loaded
+2018-09-08T12:32:58.932Z - success: weapp-adapter loaded
+2018-09-08T12:33:02.763Z - normal: Initializing project /Users/apple/Desktop/cocos/cc_flybirds
+2018-09-08T12:33:02.788Z - normal: Loading packages
+2018-09-08T12:33:02.806Z - normal: Watching packages
+2018-09-08T12:33:03.165Z - normal: Run Application
+2018-09-08T12:33:06.040Z - success: preview server running at http://localhost:7456
+2018-09-08T12:33:24.843Z - normal: 1.9.3

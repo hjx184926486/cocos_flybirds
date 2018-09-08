@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pasuse111",
+    "texture": "25bb5123-4a7f-4179-bae8-8529bf4b9bcf",
+    "atlas": "",
+    "rect": [
+      14,
+      5,
+      47,
+      40
+    ],
+    "offset": [
+      -2.5,
+      0
+    ],
+    "originalSize": [
+      80,
+      50
+    ]
+  }
+}
