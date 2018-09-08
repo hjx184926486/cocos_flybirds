@@ -11,6 +11,8 @@ export  class CameraCtl extends cc.Component {
 
     // LIFE-CYCLE CALLBACKS:
 
+
+    
     onLoad () {
         //this.node.position = this.target.position;
         
